@@ -23,6 +23,9 @@ A web-based **Salesperson Management System** that allows salespersons to submit
 - **SMTP Settings Management** *(Configure email notifications easily)*  
 
 ---
+## **Demo Admin Credentials**
+ - **Username** - admin@example.com
+ - **Password** - admin123
 
 ## **📂 Project Structure**
 ```
